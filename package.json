@@ -1,0 +1,29 @@
+{
+  "name": "ai-anime-creator-starter-kit",
+  "version": "1.0.0",
+  "description": "Panduan lengkap pemula membuat karakter anime original dengan AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8050",
+    "dev": "python -m http.server 8050"
+  },
+  "keywords": [
+    "anime",
+    "ai",
+    "artificial-intelligence",
+    "digital-art",
+    "tutorial",
+    "panduan",
+    "indonesia"
+  ],
+  "author": "Anime Digital School by Asep Awaludin",
+  "license": "Copyright 2024",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anime-digitalschool/ai-anime-creator-starter-kit"
+  },
+  "bugs": {
+    "url": "https://github.com/anime-digitalschool/ai-anime-creator-starter-kit/issues"
+  },
+  "homepage": "https://anime-digitalschool.com"
+}
